@@ -1,0 +1,8 @@
+new/
+
+*.tmp
+* .txt
+
+*.txt
+temp.txt.txt
+secret_info.py.txt
